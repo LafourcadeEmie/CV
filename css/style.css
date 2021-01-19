@@ -64,9 +64,8 @@ strong:not(#lien)
 	color: #4cafaf;
 }
 
-strong
+strong, , .comPart li
 {
-
 	font-size: 1.2em;
 }
 
