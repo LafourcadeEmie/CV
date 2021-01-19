@@ -94,7 +94,7 @@ strong
 
 #nom
 {
-	font-size: 3em;
+	font-size: 2.6em;
 	font-weight: bold;
 }
 
@@ -131,7 +131,7 @@ body
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin:0em;
-	font-size: 1.6em;
+	font-size: 1.2em;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -179,7 +179,6 @@ footer
 {
 	color: rgb(68, 64, 63);
 	padding-bottom: 2.85em;
-	
 }
 
 .progress-container 
@@ -196,7 +195,6 @@ footer
 {
 	height: 0.45em;
 	background: #4cafaf;
-
 }
 
 
@@ -215,8 +213,6 @@ footer
 	background: #4cafaf;
 	width: 70%;
 }
-
-
  
 @keyframes fadein 
 {
