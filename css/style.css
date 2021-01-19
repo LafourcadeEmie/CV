@@ -247,12 +247,14 @@ footer
 
 .imgprojet
 {
+	margin-bottom: 0.3em;
 	opacity: 0;
 	width: 40em;
 }
 
 .vidprojet
 {
+	margin-bottom: 0.3em;
 	width: 40em;
 	height: 22em;
 }
