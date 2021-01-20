@@ -37,7 +37,7 @@ ul
 	display: block;
     color: rgba(0, 0, 0, .7); 
     text-decoration: none;
-	padding : 0.6em;
+	padding : 0.75em;
 	border-radius: 0.3em;
 }
 
@@ -67,13 +67,11 @@ h3
 
 strong:not(#lien)
 {
-
 	color: #4cafaf;
 }
 
-strong, .comPart li
+strong, .comPart li, .CompAcquises li
 {
-
 	font-size: 1.2em;
 }
 
@@ -336,11 +334,15 @@ section
 	text-align : center;
 }
 
-li 
+li:not(.CompAcquises li)
 {
 	list-style: none;
 }
 
+.CompAcquises
+{
+	text-align: left;
+}
 
 .video-container {
     position: relative;
@@ -444,7 +446,7 @@ form
 	max-width:0em;	
 	margin: 0; padding: 0;
 	overflow: hidden;
-	transition: 1s max-width 0.3s;
+	transition: 1s max-width ;
 	top: 2.25em;
 
 }
