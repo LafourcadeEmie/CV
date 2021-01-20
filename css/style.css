@@ -334,10 +334,16 @@ section
 	text-align : center;
 }
 
-li:not(.CompAcquises li)
+li
 {
 	list-style: none;
 }
+
+.CompAcquises li
+{
+	list-style: circle;
+}
+
 
 .CompAcquises
 {
