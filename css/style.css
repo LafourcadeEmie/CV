@@ -109,6 +109,7 @@ strong, .comPart li, .CompAcquises li
 
 #logoContact img
 {
+	height: 3em;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
