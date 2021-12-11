@@ -21,17 +21,28 @@ ul
 }
 
 
-#menuDeroulant img
+/* #menuDeroulant img */
+.menuImage
 {
 	display : none;
 }
 
+.flag
+{
+	width : 1.4em;
+}
 
 #menu li
 {
 	list-style: none;
 	width: 11em;
 }
+
+.lang
+{
+	width: auto;
+}
+
 
 #menu li a {
 	display: block;
@@ -427,7 +438,7 @@ li
 	margin : 0.6em;
 }
 
-#menuDeroulant img
+.menuImage
 {
 	display : block;
 }
