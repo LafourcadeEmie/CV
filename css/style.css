@@ -149,7 +149,7 @@ body
 .imgProfil
 {
 	float: left;
-	width : 15em;
+	width : 16em;
 	margin-right : 2em;
 	border-radius: 0.3em;
 	border : solid ;
@@ -185,6 +185,12 @@ section, footer
 	/* background-color:  rgb(255, 255, 255, 0.6); */
 
 	border-top: groove;
+
+}
+
+#informations strong
+{
+	font-size: 1em;
 
 }
 
