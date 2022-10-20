@@ -9,8 +9,9 @@ ul
 {
 	list-style: none;
 	display: inline;
-	float: left;	
-	width: 5.3em;
+	float: left;
+	font-size: 1.2em;
+	margin: auto;
 }
 
 
@@ -84,6 +85,11 @@ strong:not(#lien)
 strong, .comPart li, .CompAcquises li
 {
 	font-size: 1.2em;
+}
+
+.comPart li
+{
+	width: 5.3em;
 }
 
 .LP , .autre
@@ -430,11 +436,6 @@ li
 	width: 100%;
 }
 
-#competences li
-{
-	margin: auto;
-} 
-	
 #menu
 {
 	width : auto;
